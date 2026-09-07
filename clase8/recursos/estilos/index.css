@@ -1,0 +1,18 @@
+/*
+sintaxis
+*/
+
+/*
+selector{
+    propiedad1: valor;
+    propiedad2: valor;
+}
+*/
+
+/* selectores de TIPO */
+body{
+    background-color: chocolate;
+}
+header{
+    background-color: rgb(11, 161, 111);
+}
