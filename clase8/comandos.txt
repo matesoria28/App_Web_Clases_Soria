@@ -1,5 +1,7 @@
 comandos de consola
 
+entrar a la clase especifica (cd + arrastrar la carpeta o clase a la terminal)
+
 comandos primera vez(en su casa)
 
 -Instalar NodeJS
@@ -9,6 +11,8 @@ node -v
 
 -verificar instalacion de npm:
 npm -v
+https://pnpm.io/es/
+https://www.npmjs.com/search?q=five%20server
 
 -Instalar manejador de paquetes pnpm:
 npm i -g pnpm
