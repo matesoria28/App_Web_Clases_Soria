@@ -33,6 +33,5 @@ pn install
 
 -configurar scripts => "dev":"five-server" (aparece en el package.json)
 
--para abrir la ventana que se esta modificando:
-pn dev
+- pn dev
 
