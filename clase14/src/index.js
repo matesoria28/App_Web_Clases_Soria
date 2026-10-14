@@ -68,7 +68,24 @@ console.log(nombre)
 console.log("programacion "+ "web")
 
 //imprimir 3 palabras
-console.log("programacion "+ "web "+"1")
+//console.log("programacion "+ "web "+"1")
+
+
+//estructura de control -> bucle
+
+for(let i = 0; i < 10; i++){
+    console.log(i)
+}
+
+//arreglos(array)
+const numero = [1,2,3,4,5,6]
+
+
+
+
+
+
+
 
 
 
